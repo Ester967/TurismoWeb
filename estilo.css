@@ -155,7 +155,7 @@ figure.img img{
 
 .galeria{
     margin: 50px;
-    width: 1000px;
+    width: 500px;
     height: 500px;
     padding-top: 20px;
     padding-left: 30px;
@@ -165,7 +165,7 @@ figure.img img{
 }
 
 .foto{
-    width: 500px;
+    width: 400px;
     height: 300px;
     border: 8px solid white;;
     box-shadow: 1px 1px 4px black;
